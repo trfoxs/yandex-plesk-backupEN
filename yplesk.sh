@@ -21,7 +21,7 @@ echo -e "
 ................................................
 "
 	echo -e "[\e[31mOK\e[39m] Yandex-disk detected !"
-	echo -e "[\e[93mDOING\e[39m] Please specify yandex directory, exp.: /var/home/plesk-backup: "
+	echo -e "[\e[93mDOING\e[39m] Please specify yandex directory, e.g: /var/home/plesk-backup: "
 	read -p "Dizin Adı: " foldername
 	echo -e "[\e[93mDOING\e[39m] Checking the directory, $foldername..."
 	
