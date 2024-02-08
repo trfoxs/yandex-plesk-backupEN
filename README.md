@@ -1,5 +1,5 @@
 # yandex-plesk-backupEN
-![](https://img.shields.io/badge/Ver.-1.0.1-dark) ![](https://img.shields.io/badge/Author-trfoxs-blue) ![](https://img.shields.io/badge/profile-semihbtr-green?logo=linkedin&style=flat-square) ![](https://shields.io/badge/license-MIT-informational) ![](https://img.shields.io/badge/english-red)
+![](https://img.shields.io/badge/Ver.-1.0.1-dark) ![](https://img.shields.io/badge/Author-trfoxs-blue) ![](https://shields.io/badge/license-MIT-informational) ![](https://img.shields.io/badge/english-red)
 
 Plesk Yandex weekly update
 
